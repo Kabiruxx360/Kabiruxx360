@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MK (Kabiru Adamu)
+# 👋 Hi, I'm MK (Muhammad Kabiru Adamu)
 
 A passionate creative and tech enthusiast dedicated to building, learning, and empowering others. I specialize in:
 
@@ -39,4 +39,4 @@ I believe knowledge has no limits. I learn daily, experiment often, and share wh
 Languages:    HTML, CSS, JavaScript, Python, PHP, C++
 Frameworks:   Kivy, Flask (learning), Termux CLI
 Tools:        Git, GitHub, Linux, Figma, CapCut, VS Code
-Specialties:  Prompt Engineering, UI/UX Design, Cyber Toolbuilding.
+Specialties:  Prompt Engineering, UI/UX Design, Cyber Toolbuilding
